@@ -13,8 +13,9 @@ def batch_badge_creator(arr)
     
     new_arr << badge_maker(name)
     
-    new_arr
+    
    end 
+   new_arr
 end 
 
 def assign_rooms(arr_of_names)
